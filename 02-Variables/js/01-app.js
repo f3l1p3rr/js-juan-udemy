@@ -1,4 +1,4 @@
-//iniciar una variable con un valor
+/* //iniciar una variable con un valor
 var producto = "monitor de 24 pulgadas";
 console.log(producto);
 
@@ -28,4 +28,4 @@ var isFalsy = false;
 // SnakeCase
 var user_year = 1992;
 // Pascal
-var FirstName = 'Richard';
+var FirstName = 'Richard'; */
